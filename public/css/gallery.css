@@ -1,0 +1,13 @@
+@import 'nav.css';
+@import 'footer.css';
+.brush{
+    padding:20px;
+    margin:10px,10px,10px,10px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 3fr);
+    grid-area: auto;
+    grid-gap:10px;
+    
+   
+}
